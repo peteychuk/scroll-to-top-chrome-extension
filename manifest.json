@@ -1,0 +1,16 @@
+{
+    "name": "Scroll to top",
+    "description": "Extension that make it so adding Scroll to top button when you start scroll to top. AKA: Pet Scroll.",
+    "version": "0.2",
+    "manifest_version": 2,
+    "content_scripts": [{
+    "js": [ "app.js"],
+        "matches": [ "\u003Call_urls\u003E" ]
+    }],
+    "web_accessible_resources": [
+        "top.png"
+    ],
+    "icons": {
+        "48": "top48.png"
+    }
+}
