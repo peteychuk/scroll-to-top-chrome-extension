@@ -1,6 +1,6 @@
 /**
  *
- * @name        Chrome Scroll to top extension
+ * @name        Scroll to top Chrome Extension
  * @author      Yaroslav Peteychuk <https://www.peteychuk.com/>
  *
  */
