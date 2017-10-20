@@ -1,7 +1,7 @@
 {
     "name": "Scroll to top",
     "description": "Extension that make it so adding Scroll to top button when you start scroll to top. AKA: Pet Scroll.",
-    "version": "0.2",
+    "version": "0.3",
     "manifest_version": 2,
     "content_scripts": [{
     "js": [ "app.js"],
